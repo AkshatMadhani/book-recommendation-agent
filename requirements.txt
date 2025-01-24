@@ -1,0 +1,5 @@
+phidata
+groq
+streamlit
+python-dotenv
+phi
